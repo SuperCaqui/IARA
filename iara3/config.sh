@@ -30,3 +30,4 @@ cd
 yes | pip3 install wikipedia
 yes | pip3 install aiogram
 yes | pip3 install wakeonlan
+git clone https://github.com/SuperCaqui/IARA.git .
