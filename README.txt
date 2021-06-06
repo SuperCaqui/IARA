@@ -1,6 +1,6 @@
+I.A.R.A. Se trata de uma assistente virtual para automação residencial paraense, a qual deve ser executada via NOHUP em um servidor Linux a base de Debian.
+
 Para executar a assistente virtual I.A.R.A. é preciso primeiramente executar o script de instalação "install.sh" a fim de instalar todas as suas dependências.
-
-
 
 Depois é preciso editar o arquivo de configuração "config.txt" a fim de adicionar as suas configurações pessoais:
 
