@@ -1,0 +1,8 @@
+mode
+name
+pronoum
+mac
+ip
+tokenbot
+tokenweather
+hora
